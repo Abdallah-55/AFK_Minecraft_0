@@ -8,7 +8,7 @@ const persist = require('node-persist');
 const botConfigs = [
   {
     host: 'THESERVERXMC.aternos.me',
-    username: 'bot01',
+    username: 'bot02',
     auth: 'offline'
   }
   /*{
